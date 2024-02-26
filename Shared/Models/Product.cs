@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace Product.Event.Handler.Service.Models
+namespace Shared.Models
 {
     public class Product
     {
